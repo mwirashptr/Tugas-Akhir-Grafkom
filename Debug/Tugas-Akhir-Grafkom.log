@@ -1,0 +1,31 @@
+﻿  door.cpp
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(152,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(152,37): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(180,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(181,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(182,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(196,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(198,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(199,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(200,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(200,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(202,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(202,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(204,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(204,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(206,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(206,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(209,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(210,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(210,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(212,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(212,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(214,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(214,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(230,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(230,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(230,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(287,33): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(292,33): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\door.cpp(297,33): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Tugas-Akhir-Grafkom.vcxproj -> D:\Local Repository\Tugas-Akhir-Grafkom\Debug\Tugas-Akhir-Grafkom.exe

@@ -1,0 +1,16 @@
+﻿  getBMP.cpp
+  main.cpp
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(73,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(73,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(73,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(109,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(109,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(109,55): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(109,55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(149,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(149,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(187,25): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Local Repository\Tugas-Akhir-Grafkom\main.cpp(191,25): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" exited with code 1104.
+LINK : fatal error LNK1104: cannot open file 'glew32.lib'
